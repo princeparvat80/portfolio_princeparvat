@@ -82,7 +82,6 @@ const Experience = () => {
         <VerticalTimeline>
           {experiences.map(
             (experience, index) => (
-              console.log("ppp", experience, index),
               (
                 <ExperienceCard
                   key={`experience-${index}`}

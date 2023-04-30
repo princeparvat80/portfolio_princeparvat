@@ -27,7 +27,7 @@ const ServiceCard = ({ index, title, icon }) => (
         className="w-16 h-16 object-contain"
       />
 
-      <h3 className="text-white text-[20px] font-bold text-center">{title}</h3>
+      <a href="https://www.linkedin.com/in/prince-parwat-47308214b/" className="text-white text-[20px] font-bold text-center">{title}</a>
     </div>
   </motion.div>
   // </Tilt>

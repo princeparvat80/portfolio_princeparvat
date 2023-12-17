@@ -121,10 +121,33 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2023 - Present",
     points: [
-      "Training on Adobe Analytics Tool",
-      "Learning about Evar,Props,Events,Data feeds",
-      "Creating Report Suits and managaing there Data",
-      "Geeting glimps of Data Analytics",
+      "1. Customized Web Analytics:",
+      "- Develop customized web analytics collection code.",
+      "- Provide support during the implementation and deployment of the code.",
+
+      "2. Collaboration and Communication:",
+      " - Collaborate closely with client developers and third-party teams.",
+      "- Ensure a smooth implementation process by fostering effective communication.",
+
+      "3. Validation and Troubleshooting:",
+      "- Thoroughly validate and troubleshoot implementations.",
+      "- Address issues persistently until resolution is achieved.",
+
+      "4. Guidance and Stakeholder Alignment:",
+      "- Offer valuable guidance to key stakeholders.",
+      "- Align client success with critical business objectives.",
+
+      "5. Project Management:",
+      "- Manage multiple client engagements concurrently.",
+      " - Ensure the success of each project.",
+
+      "6. Expectation Management:",
+      "- Set and manage customer expectations appropriately.",
+      "- Maintain project schedules and scopes.",
+
+      "7. Expertise in Adobe Products:",
+      "- Demonstrate expertise in the utilization of Adobe products.",
+      "- Implement optimization strategies for online businesses utilizing Adobe tools.",
     ],
   },
   {
